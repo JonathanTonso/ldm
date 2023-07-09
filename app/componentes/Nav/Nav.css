@@ -1,0 +1,39 @@
+
+.nav {
+    background-color: var(--naranja);
+    padding-left: 40px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.navLista {
+    background-color: var(--naranja);
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.navLink {
+    text-decoration: none;
+    display: block;
+    padding: 2px 25px;
+    color: var(--blanco);
+    font-weight: bold;
+    border-right: 2px solid var(--amarillo);
+
+
+
+}
+
+.navLink:hover {
+
+    text-decoration: underline;
+}
+
+.nav-itemForm {
+    flex-grow: 1;
+    text-align: right;
+
+}

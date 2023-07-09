@@ -1,0 +1,39 @@
+
+
+
+.cabecera{
+    background-image: url('../../../public/logo-no-background.png');
+    background-repeat: repeat;
+    background-size: 80px 40px;
+    background-color: var(--celeste);
+
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 8px;
+     
+    
+}
+
+.cabecera-logo{
+    
+    width: 145px;
+    margin-left: 15px;
+    
+    
+}
+
+
+.titulo{
+
+
+    margin: auto;
+    
+    flex-grow: 1;
+   
+}
