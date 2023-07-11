@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Dancing+Script:wght@400;500;600&family=Permanent+Marker&display=swap');
 
 
 :root {
@@ -11,5 +12,12 @@
   box-sizing: border-box;
   padding: 0;
   margin: auto;
-  
+
+}
+
+.contenedor-componentes {
+
+  margin-left: 80px;
+  margin-right: 80px;
+
 }

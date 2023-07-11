@@ -1,7 +1,13 @@
+import './Footer.css';
+
 
 export default function (){
 
     return (
-        <h1>Soy el Footer</h1>
+
+        <div>
+        <h1 className="probando">Soy el Footer</h1>
+        </div>
+
     )
 }

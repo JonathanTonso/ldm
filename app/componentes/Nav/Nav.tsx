@@ -17,7 +17,7 @@ export default function () {
                     </li>
 
                     <li className="navItem">
-                        <a href="" className="navLink">Empresa</a>
+                        <a href="" className="navLink">Nosotros</a>
                     </li>
 
 
