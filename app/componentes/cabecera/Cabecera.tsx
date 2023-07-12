@@ -1,5 +1,6 @@
 import './Cabecera.css';
 import 'animate.css';
+import Link from 'next/link';
 
 export default function () {
 
@@ -7,7 +8,9 @@ export default function () {
 
         <div className='cabecera'>
         <img className='cabecera-logo' src='./imagenes-logo/logo-color2.jpg' ></img>
-                <h1 className='animate__heartBeat'> Lo de Maria - Bazar </h1>
+                <Link className='animate__heartBeat' href='./'>Lo de Maria - Bazar </Link>
+              
+        
         </div>
 
         

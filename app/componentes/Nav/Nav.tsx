@@ -1,4 +1,5 @@
 import './Nav.css'
+import Link from 'next/link';
 
 
 export default function () {
@@ -7,24 +8,20 @@ export default function () {
 
         <div className="contenido">
             <nav className="nav">
+
                 <ul className="navLista">
-
-                    <li className="navItem">
-                        <a href="" className="navLink">Productos</a>
+                    <li >
+                        <Link className='navLink' href='/productos'> Productos</Link>
                     </li>
-                    <li className="navItem">
-                        <a href="" className="navLink">Servicios</a>
+                    <li >
+                        <Link className='navLink' href='/servicios'> Servicios</Link>
                     </li>
-
-                    <li className="navItem">
-                        <a href="" className="navLink">Nosotros</a>
+                    <li>
+                        <Link className='navLink' href='/nosotros'> Nosotros</Link>
                     </li>
-
-
-                    <li className="navItem">
-                        <a href="" className="navLink">Contacto</a>
+                    <li>
+                        <Link className='navLink' href='/contacto'>Contacto </Link>
                     </li>
-
                 </ul>
             </nav>
         </div>
