@@ -1,0 +1,26 @@
+
+
+.wapper{
+
+    max-width: 1200px;
+
+}
+
+
+.grillas{
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+
+
+}
+
+.filtros{
+
+    border: 2px solid black;
+    width: 200px;
+    height: 400px;
+    
+
+}

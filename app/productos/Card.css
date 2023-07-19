@@ -1,0 +1,62 @@
+
+.card{
+  
+    max-width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 6px;
+    
+   
+    
+
+}
+
+.imagen{
+   width: 100%;
+    border-top-right-radius:6px ;
+    border-top-left-radius:6px ;
+    border-bottom: 1px solid black;
+    object-fit: cover;
+}
+
+.card-info{
+
+
+color: black;
+font-size: 0.5rem;
+text-align: start;
+margin-left: 5px;
+
+
+}
+
+.card-info-detalles{
+
+margin-bottom: 5px;
+text-align: center;
+
+
+
+
+}
+
+.precio{
+    
+    border-top: 1px solid black;
+
+    margin-top: 4px;
+    
+    font-size: 1rem;
+    
+   
+}
+
+.envio{
+    background-color: var(--celeste);
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 1rem;
+    
+}

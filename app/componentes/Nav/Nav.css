@@ -4,6 +4,7 @@
     padding-left: 40px;
     padding: 10px;
     margin-bottom: 30px;
+    
 }
 
 .navLista {
@@ -11,6 +12,7 @@
     list-style: none;
     display: flex;
     align-items: center;
+    
 
 
 }

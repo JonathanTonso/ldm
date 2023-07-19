@@ -5,13 +5,11 @@ import Link from 'next/link';
 export default function () {
 
     return (
-
         <div className="contenido">
             <nav className="nav">
-
                 <ul className="navLista">
                     <li >
-                        <Link className='navLink' href='/productos'> Productos</Link>
+                        <Link className='navLink' href='/'> Productos</Link>
                     </li>
                     <li >
                         <Link className='navLink' href='/servicios'> Servicios</Link>

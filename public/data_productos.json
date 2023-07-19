@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "categoria": "copa",
+        "imagen": "../imagenes-productos/gin.jpg",
+        "titulo": "Copa de Gin",
+        "descripcion": "Copa de vidrio para gin tonic de 18,5 de alto por 11 cm de ancho",
+        "precio": 5342,
+        "envio": true
+    },
+    {
+        "categoria": "cacerola",
+        "id": 2,
+        "imagen": "../imagenes-productos/cacerola.jpg",
+        "titulo": "Cacerola c/ Tapa de Vidrio",
+        "descripcion": "Cacerola c/ Tapa de Vidrio 2,65L Antiadherente y mango Acero Inox Gris",
+        "precio": 512342,
+        "envio": true
+    },
+    {
+        "id": 3,
+        "categoria": "copa",
+        "imagen": "../imagenes-productos/gin.jpg",
+        "titulo": "Copa de Gin",
+        "descripcion": "Copa de vidrio para gin tonic de 18,5 de alto por 11 cm de ancho",
+        "precio": 5342,
+        "envio": true
+    },
+    {
+        "id": 4,
+        "categoria": "cacerola",
+        "imagen": "../imagenes-productos/cacerola.jpg",
+        "titulo": "Cacerola c/ Tapa de Vidrio",
+        "descripcion": "Cacerola c/ Tapa de Vidrio 2,65L Antiadherente y mango Acero Inox Gris",
+        "precio": 512342,
+        "envio": true
+    },
+    {
+        "id": 5,
+        "categoria": "cacerola",
+        "imagen": "../imagenes-productos/cacerola.jpg",
+        "titulo": "Cacerola c/ Tapa de Vidrio",
+        "descripcion": "Cacerola c/ Tapa de Vidrio 2,65L Antiadherente y mango Acero Inox Gris",
+        "precio": 512342,
+        "envio": true
+    }
+]

@@ -1,11 +1,10 @@
-
+import CardWrapper from "./Cardwrapper";
 
 
 export default function Productos (){
 
-    return(
+return (
 
-        <h1> Estas en productos!</h1>
-    )
-    
-}
+    <CardWrapper/>
+
+)}
